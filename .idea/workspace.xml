@@ -5,7 +5,7 @@
     <ignored path="CowKiller.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.java" changelist="c75fda8d-80cd-4784-a223-1ddf3368d9d7" time="1363489733311" ignored="false" />
-    <file path="/CowKiller.java" changelist="c75fda8d-80cd-4784-a223-1ddf3368d9d7" time="1363491543231" ignored="false" />
+    <file path="/CowKiller.java" changelist="c75fda8d-80cd-4784-a223-1ddf3368d9d7" time="1363496778995" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <file leaf-file-name="CowKiller.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CowKiller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="1618" selection-end="2077" vertical-scroll-proportion="0.55634636">
+            <state line="119" column="127" selection-start="4431" selection-end="4431" vertical-scroll-proportion="0.8313253">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -288,6 +288,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c75fda8d-80cd-4784-a223-1ddf3368d9d7" name="Default" comment="" />
@@ -382,9 +387,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_10/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="333" column="0" selection-start="10660" selection-end="10660" vertical-scroll-proportion="0.33213645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CowKiller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="1618" selection-end="2077" vertical-scroll-proportion="0.55634636">
+        <state line="119" column="127" selection-start="4431" selection-end="4431" vertical-scroll-proportion="0.8313253">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
